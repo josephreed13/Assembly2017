@@ -1,0 +1,2 @@
+Printing initial array: 2318; Printing array backwards after swaps: 2318
+-- program is finished running --

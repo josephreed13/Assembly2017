@@ -1,0 +1,17 @@
+Enter the first test score: 100
+Enter the second test score:  95
+Enter the final test score: 97
+Weighted average is: 96
+-- program is finished running --
+
+Enter the first test score: 95
+Enter the second test score:  85
+Enter the final test score: 75
+Weighted average is: 81
+-- program is finished running --
+
+Enter the first test score: 50
+Enter the second test score:  60
+Enter the final test score: 75
+Weighted average is: 64
+-- program is finished running --
